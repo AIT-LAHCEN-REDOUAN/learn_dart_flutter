@@ -1,6 +1,5 @@
 
 
-import 'dart:ffi';
 
 void main(List<String> arguments) {
 
@@ -77,7 +76,7 @@ void main(List<String> arguments) {
 
   (10>20)?print("Good Job !!"):print("GET OUT OF MY SIDE I ATTACK YOU DIRECTLY ");
 
-  var myage = null ;
+  var myage ;
 
   var myage2 = 30 ;
 
